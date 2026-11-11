@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Muhammad Qasim 👋
 
-<!--
-**qasimmalik07/qasimmalik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Mobile App Developer
 
-Here are some ideas to get you started:
+I'm a Flutter Developer with approximately 3 years of professional experience building and maintaining cross-platform mobile applications for Android and iOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- Flutter & Dart
+- Android & iOS Development
+- REST API Integration
+- Firebase
+- State Management
+- Third-Party SDK Integration
+- Git & GitHub
+- Android Studio & Xcode
+- App Store & Google Play Deployment
+
+### Projects
+
+- Nafae
+- ZAP
+- Bluechip
+- SmartQ
+- WearItAll
+
+### Education
+
+BS Software Engineering
+
+### Connect With Me
+
+- GitHub: https://github.com/qasimmalik07
+
+Open to Flutter Developer opportunities in Lahore and remote positions.
